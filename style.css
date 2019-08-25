@@ -9,8 +9,7 @@
 }
 
 .article {
-  weight: 200px;
-  height: 400px;
+  width: 200px;
   border-radius:2px;
   box-shadow: 2px;
   color: rgb(105, 197, 89);
